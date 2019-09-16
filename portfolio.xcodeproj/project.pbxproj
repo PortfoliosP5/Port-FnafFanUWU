@@ -60,19 +60,11 @@
 		5F249C85232C48970006BAE9 /* portfolio */ = {
 			isa = PBXGroup;
 			children = (
+				5F249C94232C496C0006BAE9 /* pythagoras.c */,
 				5F249C86232C48970006BAE9 /* main.c */,
 				5F249C8D232C49090006BAE9 /* labs.h */,
-				5F249C93232C49390006BAE9 /* labs */,
 			);
 			path = portfolio;
-			sourceTree = "<group>";
-		};
-		5F249C93232C49390006BAE9 /* labs */ = {
-			isa = PBXGroup;
-			children = (
-				5F249C94232C496C0006BAE9 /* pythagoras.c */,
-			);
-			path = labs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

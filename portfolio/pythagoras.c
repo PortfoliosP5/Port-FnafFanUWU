@@ -6,11 +6,11 @@
 //  Copyright © 2019 Mir, Eyaad. All rights reserved.
 //
 
-#include <stdio.h>
 #include "labs.h"
-#include <math.h>
-int pythagoras(void) {
-    double Adjacent=0, Opposite=0,  Hypotenuse=0;
+
+int pythagoras(void) {
+    
+    double Adjacent, Opposite, Hypotenuse;
     printf("Enter first leg length\n");
     scanf("%lf", &Adjacent);
     printf("Enter second leg length\n");
